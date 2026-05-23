@@ -314,4 +314,5 @@ document.addEventListener('DOMContentLoaded', function() {
     console.log('   • Limpieza automática del formulario al enviar');
     console.log('   • Modal de confirmación personalizado con animación SVG');
     console.log('   • Formulario listo para nueva reservación');
+    // Formspree: envío de correos con autoresponse activado para juanfrank
 });
